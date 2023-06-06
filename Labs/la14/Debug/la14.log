@@ -1,4 +1,0 @@
-﻿  la14.cpp
-c:\users\лера\desktop\саод\000\la14\la14.cpp(143): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-c:\users\лера\desktop\саод\000\la14\la14.cpp(366): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  la14.vcxproj -> C:\Users\Лера\Desktop\САОД\000\la14\Debug\la14.exe

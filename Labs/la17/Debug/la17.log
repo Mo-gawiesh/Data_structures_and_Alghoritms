@@ -1,5 +1,0 @@
-﻿  la17.cpp
-c:\users\лера\desktop\саод\000\la17\la17.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\лера\desktop\саод\000\la17\la17.cpp(20): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-c:\users\лера\desktop\саод\000\la17\la17.cpp(23): warning C4101: s: неиспользованная локальная переменная
-  la17.vcxproj -> C:\Users\Лера\Desktop\САОД\000\la17\Debug\la17.exe

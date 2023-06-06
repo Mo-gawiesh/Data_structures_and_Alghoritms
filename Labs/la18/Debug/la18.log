@@ -1,4 +1,0 @@
-﻿  la18.cpp
-c:\users\лера\desktop\саод\000\la18\la18.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\лера\desktop\саод\000\la18\la18.cpp(89): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  la18.vcxproj -> C:\Users\Лера\Desktop\САОД\000\la18\Debug\la18.exe
