@@ -1,0 +1,4 @@
+﻿  Project16.cpp
+C:\4 семестр\САОД\С++1\Project16\Project16.cpp(12,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\4 семестр\САОД\С++1\Project16\Project16.cpp(34,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project16.vcxproj -> C:\4 семестр\САОД\С++1\Project16\Debug\Project16.exe

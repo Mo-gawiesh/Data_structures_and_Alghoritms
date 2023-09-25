@@ -1,0 +1,6 @@
+﻿  Project17.cpp
+C:\4 семак\САОД\С++1\Project17\Project17.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\4 семак\САОД\С++1\Project17\Project17.cpp(18,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\4 семак\САОД\С++1\Project17\Project17.cpp(21,9): warning C4101: s: неиспользованная локальная переменная
+C:\4 семак\САОД\С++1\Project17\Project17.cpp(31,7): warning C4101: flag: неиспользованная локальная переменная
+  Project17.vcxproj -> C:\4 семак\САОД\С++1\Project17\Debug\Project17.exe

@@ -1,0 +1,3 @@
+﻿  Project7.cpp
+C:\4 семестр\САОД\С++1\Project7\Project7.cpp(280,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project7.vcxproj -> C:\4 семестр\САОД\С++1\Project7\Debug\Project7.exe

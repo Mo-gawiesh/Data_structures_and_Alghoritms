@@ -1,0 +1,3 @@
+﻿  Project15.cpp
+C:\4 семак\САОД\С++1\Project15\Project15.cpp(150,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project15.vcxproj -> C:\4 семак\САОД\С++1\Project15\Debug\Project15.exe
